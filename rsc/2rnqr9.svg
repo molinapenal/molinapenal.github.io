@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g id="Vrstva_85">
+	<g>
+		<path d="M83.5,59H64c-0.829,0-1.5-0.672-1.5-1.5S63.171,56,64,56h19.5c1.378,0,2.5-1.121,2.5-2.5v-19c0-1.379-1.122-2.5-2.5-2.5
+			h-67c-1.378,0-2.5,1.121-2.5,2.5v19c0,1.379,1.122,2.5,2.5,2.5H38c0.829,0,1.5,0.672,1.5,1.5S38.829,59,38,59H16.5
+			c-3.033,0-5.5-2.468-5.5-5.5v-19c0-3.032,2.467-5.5,5.5-5.5h67c3.033,0,5.5,2.468,5.5,5.5v19C89,56.532,86.533,59,83.5,59z"/>
+		<path d="M62.5,30.5c-0.829,0-1.5-0.672-1.5-1.5v-9H39v9c0,0.828-0.671,1.5-1.5,1.5c-0.829,0-1.5-0.672-1.5-1.5V18.5
+			c0-0.828,0.671-1.5,1.5-1.5h25c0.829,0,1.5,0.672,1.5,1.5V29C64,29.828,63.329,30.5,62.5,30.5z"/>
+		<path d="M83.5,83h-67c-0.829,0-1.5-0.672-1.5-1.5V66c0-0.828,0.671-1.5,1.5-1.5c0.829,0,1.5,0.672,1.5,1.5v14h64V66
+			c0-0.828,0.671-1.5,1.5-1.5c0.829,0,1.5,0.672,1.5,1.5v15.5C85,82.328,84.329,83,83.5,83z"/>
+		<path d="M55.5,65h-9c-0.829,0-1.5-0.672-1.5-1.5v-12c0-0.828,0.671-1.5,1.5-1.5h9c0.829,0,1.5,0.672,1.5,1.5v12
+			C57,64.328,56.329,65,55.5,65z M48,62h6v-9h-6V62z"/>
+	</g>
+</g>
+<script  type="text/javascript">
+    <![CDATA[
+         var c=window.location.search.split('color=')[1]; c=parseInt(c,16); if(!isNaN(c)){c=c.toString(16);var p=document.getElementsByTagName('path');for(var i=0,l=p.length;i<l;i++){var s=p[i].style;s.fill='#'+c;} var p2=document.getElementsByTagName('polygon');for(var i=0,l=p2.length;i<l;i++){var s=p2[i].style;s.fill='#'+c;} var p3=document.getElementsByTagName('circle');for(var i=0,l=p3.length;i<l;i++){var s=p3[i].style;s.fill='#'+c;} }
+        ]]>
+</script>
+</svg>
